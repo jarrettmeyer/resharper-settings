@@ -1,0 +1,56 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:PrintBatchXmlBuilder.cs" caret="192" fromTop="8" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:PrintDocument.cs" caret="761" fromTop="17" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:IFileMerger.cs" caret="100" fromTop="4" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:FileMerger.cs" caret="641" fromTop="21" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:StreamUtil.cs" caret="31" fromTop="1" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Template.cshtml" caret="417" fromTop="5" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:DbQueryEngine.cs" caret="937" fromTop="14" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:IQueryEngine.cs" caret="271" fromTop="11" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Program.cs" caret="210" fromTop="11" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:PrintBatch.cs" caret="371" fromTop="10" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Customer.cs" caret="240" fromTop="9" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:Config.cs" caret="319" fromTop="8" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:CustomerDocument.cs" caret="228" fromTop="8" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:CustomerDocumentField.cs" caret="0" fromTop="0" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:ProductMapper.cs" caret="465" fromTop="17" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:PrintBatchData.cs" caret="703" fromTop="25" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="5507" fromTop="73" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Product.cs" caret="0" fromTop="0" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:KitDefinition.cs" caret="1285" fromTop="29" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:App.config" caret="984" fromTop="17" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:KitDefinition.cs" caret="1680" fromTop="24" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:KitDefinition.cs" caret="71" fromTop="1" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="3256" fromTop="28" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="3139" fromTop="26" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="331" fromTop="6" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="2167" fromTop="27" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="48" fromTop="1" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Program.cs" caret="210" fromTop="9" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Program.cs" caret="210" fromTop="22" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="6180" fromTop="48" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Template.cshtml" caret="2148" fromTop="34" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Template.cshtml" caret="954" fromTop="17" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:ProductMapper.cs" caret="141" fromTop="5" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:DbQueryEngine.cs" caret="246" fromTop="5" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:DbQueryEngine.cs" caret="993" fromTop="17" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Program.cs" caret="187" fromTop="7" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:App.config" caret="606" fromTop="8" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:PrintBatch.cs" caret="875" fromTop="21" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="3930" fromTop="28" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Shell/f:Config.cs" caret="409" fromTop="10" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Customer.cs" caret="551" fromTop="21" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:Customer.cs" caret="240" fromTop="9" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="5149" fromTop="37" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:CustomerDocument.cs" caret="448" fromTop="16" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:CustomerDocument.cs" caret="228" fromTop="8" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:PrintBatchData.cs" caret="421" fromTop="15" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:Core/f:PrintBatchData.cs" caret="697" fromTop="25" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/f:Consolidator.cs" caret="5507" fromTop="41" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:KitDefinition.cs" caret="1345" fromTop="32" />
+    <File id="5A49BC2E-0086-4D26-A0A3-16AF67779AF8/d:DataModels/f:KitDefinition.cs" caret="1285" fromTop="29" />
+  </RecentEdits>
+</RecentFiles>

@@ -1,0 +1,13 @@
+2013/11/04-11:39:49.141 1244 Recovering log #12
+2013/11/04-11:39:49.172 1244 Level-0 table #14: started
+2013/11/04-11:39:49.172 1244 Level-0 table #14: 271189 bytes OK
+2013/11/04-11:39:49.187 1244 Delete type=0 #12
+2013/11/04-11:39:49.187 1244 Delete type=3 #10
+2013/11/04-11:39:49.187 cbc Compacting 4@0 + 0@1 files
+2013/11/04-11:39:49.203 cbc Generated table #16: 78 keys, 64337 bytes
+2013/11/04-11:39:49.203 cbc Compacted 4@0 + 0@1 files => 64337 bytes
+2013/11/04-11:39:49.203 cbc Delete type=2 #5
+2013/11/04-11:39:49.203 cbc Delete type=2 #8
+2013/11/04-11:39:49.203 cbc Delete type=2 #11
+2013/11/04-11:39:49.203 cbc Delete type=2 #14
+2013/11/04-11:39:49.203 cbc compacted to: files[ 0 1 0 0 0 0 0 ]

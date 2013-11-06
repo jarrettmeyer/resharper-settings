@@ -1,0 +1,11 @@
+2013/10/28-16:02:21.703 f88 Recovering log #32
+2013/10/28-16:02:21.766 f88 Level-0 table #35: started
+2013/10/28-16:02:21.828 f88 Level-0 table #35: 2097878 bytes OK
+2013/10/28-16:02:21.828 f88 Delete type=0 #32
+2013/10/28-16:02:21.828 f88 Delete type=3 #30
+2013/10/28-16:02:51.873 e88 Compacting 1@0 + 1@1 files
+2013/10/28-16:02:51.889 e88 Generated table #37: 612 keys, 400452 bytes
+2013/10/28-16:02:51.889 e88 Compacted 1@0 + 1@1 files => 400452 bytes
+2013/10/28-16:02:51.920 e88 Delete type=2 #33
+2013/10/28-16:02:51.920 e88 Delete type=2 #35
+2013/10/28-16:02:51.920 e88 compacted to: files[ 0 1 0 0 0 0 0 ]

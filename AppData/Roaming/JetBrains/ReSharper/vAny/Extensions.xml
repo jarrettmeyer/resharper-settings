@@ -1,0 +1,3 @@
+﻿<extensions>
+  <extension id="ReSharper.NuGet" enabled="True" />
+</extensions>

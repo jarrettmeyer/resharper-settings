@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:JavaScriptRoutes.cs" caret="33" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:HtmlHelperExtensions.cs" caret="995" fromTop="26" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:App_Start/f:RouteConfig.cs" caret="281" fromTop="11" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:HttpSessionData.cs" caret="382" fromTop="10" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Scripts/d:app/f:Common.js" caret="231" fromTop="8" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:HomeController.cs" caret="737" fromTop="27" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:RoutesController.cs" caret="914" fromTop="26" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:IPaginate.cs" caret="27" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Scripts/f:jquery.parseQuery.js" caret="84" fromTop="2" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:PageCounter.cs" caret="13" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:PagedList.cs" caret="1494" fromTop="46" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:BatchListRowViewModel.cs" caret="0" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_BatchListApprovalModeSelection.cshtml" caret="448" fromTop="10" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Shared/f:_Pager.cshtml" caret="566" fromTop="21" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:BatchListViewModel.cs" caret="503" fromTop="15" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_BatchListTable.cshtml" caret="1628" fromTop="50" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Scripts/d:app/f:BatchIndex.js" caret="822" fromTop="18" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:ICache.cs" caret="0" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:Cache.cs" caret="528" fromTop="20" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:BatchListFilterCriteria.cs" caret="215" fromTop="11" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:SelectListOption.cs" caret="180" fromTop="5" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="1548" fromTop="47" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:InMemoryCache.cs" caret="509" fromTop="18" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:BatchListTableViewModel.cs" caret="554" fromTop="13" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:AspNetHttpCache.cs" caret="0" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:IntegerExtensions.cs" caret="273" fromTop="9" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_FilterCriteria.cshtml" caret="303" fromTop="10" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="884" fromTop="24" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_BatchListMultiApprovalForm.cshtml" caret="45" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:Index.cshtml" caret="257" fromTop="11" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="689" fromTop="24" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="468" fromTop="19" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="212" fromTop="8" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="1660" fromTop="36" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="895" fromTop="28" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="1535" fromTop="45" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="1310" fromTop="41" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:BatchListFilterCriteria.cs" caret="215" fromTop="11" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:DepartmentSelectList.cs" caret="1548" fromTop="47" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_FilterCriteria.cshtml" caret="110" fromTop="2" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_FilterCriteria.cshtml" caret="2258" fromTop="41" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:InMemoryCache.cs" caret="494" fromTop="18" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:InMemoryCache.cs" caret="611" fromTop="23" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/d:Caching/f:InMemoryCache.cs" caret="0" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="358" fromTop="13" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="1762" fromTop="42" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="1950" fromTop="46" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_FilterCriteria.cshtml" caret="3391" fromTop="41" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_FilterCriteria.cshtml" caret="2582" fromTop="44" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_BatchListMultiApprovalForm.cshtml" caret="45" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:_FilterCriteria.cshtml" caret="302" fromTop="10" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="1147" fromTop="26" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:ViewModels/f:BatchListTableViewModel.cs" caret="553" fromTop="13" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:IntegerExtensions.cs" caret="369" fromTop="14" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Lib/f:IntegerExtensions.cs" caret="0" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="33" fromTop="0" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="1206" fromTop="32" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="1442" fromTop="38" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Controllers/f:BatchesController.cs" caret="819" fromTop="23" />
+    <File id="396B173B-3DF6-46D3-BDE7-9AEBFAE0D135/d:Views/d:Batches/f:Index.cshtml" caret="255" fromTop="11" />
+  </RecentEdits>
+</RecentFiles>

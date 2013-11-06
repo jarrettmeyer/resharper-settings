@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="3F5CB75E-9CE1-498B-ADEE-07C7914105E2" ModuleId="RazorXmlDemo" />
+  <Module PersistentId="RazorGenerator.Templating, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, mvid=7ab1a9b6-1779-4810-8e61-2df9b1e268b3" ModuleId="RazorGenerator.Templating" />
+</Modules>

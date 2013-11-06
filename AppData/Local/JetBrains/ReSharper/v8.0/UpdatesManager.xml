@@ -1,0 +1,17 @@
+﻿<UpdatesManager>
+  <XmlExternalizable />
+  <Categories>
+    <UpdatesCategory>
+      <XmlExternalizable>
+        <LastActivationDate>11/06/2013 16:33:20</LastActivationDate>
+        <LastDownloadAttemptDate>11/06/2013 16:33:50</LastDownloadAttemptDate>
+        <LastDownloadSummary />
+        <LastSuccessfulDownloadDate>11/06/2013 16:34:02</LastSuccessfulDownloadDate>
+        <LastSuccessfulDownloadVersion>8.0.2000.2660</LastSuccessfulDownloadVersion>
+        <Name>ShellProduct</Name>
+        <UpdatesFilterUri>http://www.jetbrains.com/resharper/updates/online.Updates.xslt</UpdatesFilterUri>
+      </XmlExternalizable>
+      <UpdateInfos />
+    </UpdatesCategory>
+  </Categories>
+</UpdatesManager>

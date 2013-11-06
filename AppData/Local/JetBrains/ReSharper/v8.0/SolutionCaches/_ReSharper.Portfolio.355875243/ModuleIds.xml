@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="72FF5FAB-FEF2-4D10-9D9E-DA631ECC1835" ModuleId="Portfolio.Common" />
+  <Module PersistentId="8F505E74-AA08-49AE-9175-D15260E7FD89" ModuleId="Portfolio.Web" />
+  <Module PersistentId="3E1E295D-1ED3-438B-B2DA-6D1389F029AD" ModuleId="Portfolio.Data" />
+  <Module PersistentId="913150BE-8598-4A8B-9161-77DF82E1851B" ModuleId="Portfolio.Domain" />
+  <Module PersistentId="9C9AE9A8-56AD-41FB-BE2D-1CE730EF5FD0" ModuleId="Portfolio.Tests" />
+  <Module PersistentId="System.Web.Mvc, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, mvid=23916767-7e3a-4fab-ad85-0bb94082b2dd" ModuleId="System.Web.Mvc" />
+</Modules>

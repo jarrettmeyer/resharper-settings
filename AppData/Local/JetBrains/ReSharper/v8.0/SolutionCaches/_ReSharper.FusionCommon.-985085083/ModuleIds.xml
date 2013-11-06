@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="BB6773A3-5F0F-400E-A0CD-928F65444BAA" ModuleId="Fusion.Common" />
+  <Module PersistentId="E7624C81-7031-4AAB-9756-A3C2CB6BC829" ModuleId="Fusion.Common.Tests" />
+</Modules>
